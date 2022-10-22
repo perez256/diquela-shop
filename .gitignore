@@ -1,1 +1,4 @@
 node_modules
+diquela-shop
+.next
+./package-lock.json
